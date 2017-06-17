@@ -1,6 +1,7 @@
 # file: inquiry.py
 # desc: performs a simple device inquiry followed by a remote name request of
-#       each discovered device
+#       each discovered device. Devices HAVE to enable "discover" for script 
+#       to detect device
 
 import bluetooth
 
